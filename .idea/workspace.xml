@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17463ca6-641e-40fa-82af-7a729a0e7d2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2  Estrutura_Condicionais/ExercicioCursoJavaNelio02/ExercicioCursoJavaNelio02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2  Estrutura_Condicionais/ExercicioCursoJavaNelio03/ExercicioCursoJavaNelio03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio05/ExercicioCursoJavaNelio05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio06/ExercicioCursoJavaNelio06.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio07/ExercicioCursoJavaNelio07.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio08/ExercicioCursoJavaNelio08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio09/ExercicioCursoJavaNelio09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio10/ExercicioCursoJavaNelio10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4  Métodos e Funções/ExercicioCursoJavaNelio11/ExercicioCursoJavaNelio11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio12/ExercicioCursoJavaNelio12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio13/ExercicioCursoJavaNelio13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio14/ExercicioCursoJavaNelio14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio15/ExercicioCursoJavaNelio15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio16/ExercicioCursoJavaNelio16.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio17/ExercicioCursoJavaNelio17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio18/ExercicioCursoJavaNelio18.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio19/ExercicioCursoJavaNelio19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio20/ExercicioCursoJavaNelio20.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5  Vetores e matrizes/ExercicioCursoJavaNelio21/ExercicioCursoJavaNelio21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +13,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="32c8irblGO0Q5SxRt9G0pSCBgYa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Exercicios_Java_DEV&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="17463ca6-641e-40fa-82af-7a729a0e7d2d" name="Changes" comment="" />
