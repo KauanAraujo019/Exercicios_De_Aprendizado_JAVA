@@ -7,4 +7,4 @@ Dividido em suas respectivas pastas:
 - Laços de Repetição
 - Métodos e Funções
 - Array Vetores e Matrizes
-
+- Collections
