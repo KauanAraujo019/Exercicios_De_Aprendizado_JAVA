@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicionais/ExercicioCursoJavaNelio02/ExercicioCursoJavaNelio02.iml" filepath="$PROJECT_DIR$/Estrutura_Condicionais/ExercicioCursoJavaNelio02/ExercicioCursoJavaNelio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicionais/ExercicioCursoJavaNelio03/ExercicioCursoJavaNelio03.iml" filepath="$PROJECT_DIR$/Estrutura_Condicionais/ExercicioCursoJavaNelio03/ExercicioCursoJavaNelio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio04/ExercicioCursoJavaNelio04.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio04/ExercicioCursoJavaNelio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio05/ExercicioCursoJavaNelio05.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio05/ExercicioCursoJavaNelio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio06/ExercicioCursoJavaNelio06.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio06/ExercicioCursoJavaNelio06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio07/ExercicioCursoJavaNelio07.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio07/ExercicioCursoJavaNelio07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio08/ExercicioCursoJavaNelio08.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio08/ExercicioCursoJavaNelio08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio09/ExercicioCursoJavaNelio09.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio09/ExercicioCursoJavaNelio09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio10/ExercicioCursoJavaNelio10.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio10/ExercicioCursoJavaNelio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio11/ExercicioCursoJavaNelio11.iml" filepath="$PROJECT_DIR$/Métodos e Funções/ExercicioCursoJavaNelio11/ExercicioCursoJavaNelio11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio12/ExercicioCursoJavaNelio12.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio12/ExercicioCursoJavaNelio12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio13/ExercicioCursoJavaNelio13.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio13/ExercicioCursoJavaNelio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio14/ExercicioCursoJavaNelio14.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio14/ExercicioCursoJavaNelio14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio15/ExercicioCursoJavaNelio15.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio15/ExercicioCursoJavaNelio15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio16/ExercicioCursoJavaNelio16.iml" filepath="$PROJECT_DIR$/Laços_De_Repetição/ExercicioCursoJavaNelio16/ExercicioCursoJavaNelio16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios_Java_DEV.iml" filepath="$PROJECT_DIR$/.idea/Exercicios_Java_DEV.iml" />
+    </modules>
+  </component>
+</project>
