@@ -6,5 +6,5 @@ Dividido em suas respectivas pastas:
 - Estrutura Condicional
 - Laços de Repetição
 - Métodos e Funções
-- Vetores e Matrizes
+- Array Vetores e Matrizes
 
