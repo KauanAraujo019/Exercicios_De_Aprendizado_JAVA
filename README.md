@@ -2,8 +2,9 @@ Exercicios de fixação de conteudos relacionados a linguagem java.
 
 Dividido em suas respectivas pastas:
 
-- Estrutura sequencial
+- Estrutura Sequencial
 - Estrutura Condicional
-- Laços de repetição
-- Métodos e funções
+- Laços de Repetição
+- Métodos e Funções
+- Vetores e Matrizes
 
