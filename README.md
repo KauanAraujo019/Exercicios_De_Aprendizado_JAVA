@@ -11,3 +11,4 @@ Dividido em suas respectivas pastas:
 - Padrão ISO 8601
 - Encapsulamento e Sobrecarga
 - Herança e Polimorfismo
+- Tratamento De Exceções
