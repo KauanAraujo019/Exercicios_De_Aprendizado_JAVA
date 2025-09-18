@@ -18,7 +18,7 @@ public class Main {
             valores[i] = a;
         }
 
-        try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("C:\\LDPlayer\\ld.txt"))) {
+        try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("C:\\SwitchForPaste\\ld.txt"))) {
 
             for (String valorNums : valores){
                 bufferedWriter.write(valorNums);
