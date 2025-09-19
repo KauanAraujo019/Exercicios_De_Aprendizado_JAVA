@@ -1,8 +1,12 @@
 Exercicio pessoal simples que:
 
 lê um diretorio
-criar um arquivo .txt em outra pasta
+
+cria um arquivo .txt em outra pasta
+
 escrever todos os nomes das pastas e arquivos do diretorio anterior nesse arquivo criado.
+
+
 
 Exemplo abaixo:
 
