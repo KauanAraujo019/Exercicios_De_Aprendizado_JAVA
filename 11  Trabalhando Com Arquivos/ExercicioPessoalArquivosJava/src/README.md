@@ -4,7 +4,7 @@ lê um diretorio
 
 cria um arquivo .txt em outra pasta
 
-escrever todos os nomes das pastas e arquivos do diretorio anterior nesse arquivo criado.
+escreve todos os nomes das pastas e arquivos do diretorio anterior nesse arquivo criado.
 
 
 
