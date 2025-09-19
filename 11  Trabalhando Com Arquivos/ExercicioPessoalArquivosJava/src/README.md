@@ -6,6 +6,7 @@ escrever todos os nomes das pastas e arquivos do diretorio anterior nesse arquiv
 
 Exemplo abaixo:
 
+
 diretorio digitado
 
 <img width="571" height="115" alt="image" src="https://github.com/user-attachments/assets/27e3af45-86e3-4cd0-b87c-6f703123dd61" />
@@ -19,15 +20,26 @@ diretorio digitado
 
 
 
+
+
 mensagem final do console 
 
 <img width="563" height="203" alt="image" src="https://github.com/user-attachments/assets/1c743f59-8a9d-4076-b4e0-5d63cebd752e" />
 
 
 
+
+
+
+
+
 arquivo criado na pasta destinada
 
 <img width="619" height="155" alt="image" src="https://github.com/user-attachments/assets/b371d522-43f6-468c-a836-c581efbe5d4f" />
+
+
+
+
 
 
 
