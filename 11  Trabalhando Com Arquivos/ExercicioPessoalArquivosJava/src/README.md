@@ -7,6 +7,7 @@ escrever todos os nomes das pastas e arquivos do diretorio anterior nesse arquiv
 Exemplo abaixo:
 
 <img width="571" height="115" alt="image" src="https://github.com/user-attachments/assets/27e3af45-86e3-4cd0-b87c-6f703123dd61" />
+
 diretorio digitado
 
 
@@ -40,4 +41,4 @@ arquivo criado na pasta destinada
 
 <img width="475" height="298" alt="image" src="https://github.com/user-attachments/assets/1ed72eaf-b0a5-4728-b52f-072edcc74257" />
 
-resultado:
+resultado
