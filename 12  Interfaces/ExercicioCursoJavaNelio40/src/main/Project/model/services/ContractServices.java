@@ -1,7 +1,8 @@
-package model.services;
+package main.Project.model.services;
 
-import model.entities.Contract;
-import model.entities.Installment;
+import main.Project.model.entities.Contract;
+import main.Project.model.entities.Installment;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -30,7 +31,7 @@ public class ContractServices {
         }
 
         for (Installment inst : listaParcelamentos){
-            System.out.println(inst.getDateInstallment().format(DateTimeFormatter.ofPattern("dd/MM/yyyy"))+" "+inst.getAmount());
+            System.out.println(inst.getDateInstallment().format(DateTimeFormatter.ofPattern("dd/MM/yyyy"))+" "+ String.format("%.2f", inst.getAmount()));
         }
 
     }

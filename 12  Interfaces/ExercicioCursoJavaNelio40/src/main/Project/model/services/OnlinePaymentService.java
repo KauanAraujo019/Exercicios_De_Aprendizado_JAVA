@@ -1,4 +1,4 @@
-package model.services;
+package main.Project.model.services;
 
 
 public interface OnlinePaymentService {

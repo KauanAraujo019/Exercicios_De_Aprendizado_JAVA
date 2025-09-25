@@ -1,18 +1,21 @@
-package model;
+package main.Project.model.application;
 
-import model.entities.Contract;
-
-import model.services.ContractServices;
-import model.services.PaypalService;
+import main.Project.model.entities.Contract;
+import main.Project.model.services.ContractServices;
+import main.Project.model.services.PaypalService;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.Locale;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
+        Locale.setDefault(Locale.US);
+
         Scanner scanner = new Scanner(System.in);
         DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
