@@ -31,10 +31,10 @@ public class Main {
         Integer quantParcelas = scanner.nextInt();
 
         Contract contract = new Contract(numContrato, date, valorContrato);
-        ContractServices contractServices = new ContractServices();
+        ContractServices contractServices = new ContractServices(new PaypalService());
 
         System.out.println("PARCELAS:");
-        contractServices.processContract(contract, quantParcelas, new PaypalService());
+        contractServices.processContract(contract, quantParcelas);
 
 
     }

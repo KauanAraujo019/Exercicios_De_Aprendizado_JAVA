@@ -12,7 +12,11 @@ public class ContractServices {
 
     private OnlinePaymentService onlinePaymentService;
 
-    public void processContract(Contract contract, Integer amount, OnlinePaymentService onlinePaymentService){
+    public ContractServices(OnlinePaymentService onlinePaymentService){
+        this.onlinePaymentService = onlinePaymentService;
+    }
+
+    public void processContract(Contract contract, Integer amount){
         List<Installment> listaParcelamentos = new ArrayList<>();
 
         for (int i = 1; i <= amount; i++){
